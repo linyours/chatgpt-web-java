@@ -1,6 +1,6 @@
 ### 前端ui采用：https://github.com/Chanzhaoyu/chatgpt-web 二开  特别鸣谢大佬的模板
 ### 效果可以体验 ： http://www.chosen1.xyz/
-### 对应后端项目开源地址：https://gitee.com/lixinjiuhao/chatppt-java-web
+### 对应后端项目开源地址：https://github.com/linyours/chatgpt-java-web
 
 ###前端页面入口详解
 
